@@ -1,0 +1,7 @@
+{
+  "name": "campuscard-hce-ionic-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
